@@ -8,5 +8,6 @@
     <artifactId>ddd</artifactId>
     <version>1.0-SNAPSHOTdd</version>
 
+	<packaing>jar</packaing>
 
 </project>
